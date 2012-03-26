@@ -38,21 +38,21 @@
 		1F3A10F3152116D4005C6414 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		1F3A10F5152116D4005C6414 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1F3A10F7152116D4005C6414 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		1F3A10FB152116D4005C6414 /* GitTest-Info.plist */ = {isa = PBXFileReference; path = "GitTest-Info.plist"; sourceTree = "<group>"; };
+		1F3A10FB152116D4005C6414 /* GitTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitTest-Info.plist"; sourceTree = "<group>"; };
 		1F3A10FD152116D4005C6414 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1F3A10FF152116D4005C6414 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1F3A1101152116D4005C6414 /* GitTest-Prefix.pch */ = {isa = PBXFileReference; path = "GitTest-Prefix.pch"; sourceTree = "<group>"; };
-		1F3A1102152116D4005C6414 /* MIKAppDelegate.h */ = {isa = PBXFileReference; path = MIKAppDelegate.h; sourceTree = "<group>"; };
+		1F3A1101152116D4005C6414 /* GitTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GitTest-Prefix.pch"; sourceTree = "<group>"; };
+		1F3A1102152116D4005C6414 /* MIKAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MIKAppDelegate.h; sourceTree = "<group>"; };
 		1F3A1103152116D4005C6414 /* MIKAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MIKAppDelegate.m; sourceTree = "<group>"; };
 		1F3A1106152116D4005C6414 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		1F3A1109152116D4005C6414 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
-		1F3A110B152116D4005C6414 /* MIKViewController.h */ = {isa = PBXFileReference; path = MIKViewController.h; sourceTree = "<group>"; };
+		1F3A110B152116D4005C6414 /* MIKViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MIKViewController.h; sourceTree = "<group>"; };
 		1F3A110C152116D4005C6414 /* MIKViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MIKViewController.m; sourceTree = "<group>"; };
 		1F3A1113152116D4005C6414 /* GitTestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F3A1114152116D4005C6414 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		1F3A111C152116D4005C6414 /* GitTestTests-Info.plist */ = {isa = PBXFileReference; path = "GitTestTests-Info.plist"; sourceTree = "<group>"; };
+		1F3A111C152116D4005C6414 /* GitTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GitTestTests-Info.plist"; sourceTree = "<group>"; };
 		1F3A111E152116D4005C6414 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1F3A1120152116D4005C6414 /* GitTestTests.h */ = {isa = PBXFileReference; path = GitTestTests.h; sourceTree = "<group>"; };
+		1F3A1120152116D4005C6414 /* GitTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GitTestTests.h; sourceTree = "<group>"; };
 		1F3A1121152116D4005C6414 /* GitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitTestTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
